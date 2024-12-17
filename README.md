@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ About Me
-I am a passionate **Java Backend Developer** with experience in building efficient, secure, and scalable systems. I focus on technologies like **Spring Boot** and **MongoDB**. I aim to design clean, maintainable, and performance-oriented solutions, following best backend architectural patterns.
+#### I am a passionate **Java Backend Developer** with experience in building efficient, secure, and scalable systems. I focus on technologies like **Spring Boot** and **MongoDB**. I aim to design clean, maintainable, and performance-oriented solutions, following best backend architectural patterns.
 
 ---
 
@@ -57,6 +57,7 @@ I am a passionate **Java Backend Developer** with experience in building efficie
 ## 📈 GitHub Statistics
 
 <div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=xfiive&color=blue&style=flat)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfiive&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 
