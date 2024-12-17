@@ -58,11 +58,11 @@ I am a passionate **Java Backend Developer** with experience in building efficie
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-xfiive.vercel.app/api?username=xfiive&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xfiive&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfiive&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats-xfiive.vercel.app/api/top-langs/?username=xfiive&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfiive&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
