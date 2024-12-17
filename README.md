@@ -1,5 +1,4 @@
 <div align="center">
-<!--   <img src="https://media.istockphoto.com/id/1167600251/vector/back-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=mfv4Pjj_hHX7l7UtKyokMi8T-PvK0dX7ZU_wxuzkmLg=" alt="Backend Logo" title="Backend Development" style="height: 8em;"> -->
   <h1>Greetings 👋, I'm Mikhail</h1>
   <p>
     💻 Backend Developer specializing in Java and Spring technologies<br/>
