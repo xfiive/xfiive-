@@ -56,8 +56,11 @@
 
 ## 📈 GitHub Statistics
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xfiive&color=blue&style=flat&label=Profile+Views" alt="Profile Views Counter">
+</p>
+
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=xfiive&color=blue&style=flat)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfiive&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 
