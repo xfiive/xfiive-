@@ -28,7 +28,6 @@ I am a passionate **Java Backend Developer** with experience in building efficie
 <div align="center">
   <h3>Backend Frameworks</h3>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" height="40"/>
 </div>
 
 <div align="center">
